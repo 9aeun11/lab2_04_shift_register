@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/gaeun/Desktop/lab2_04_shift_register/src/shift_register4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shift_register4
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/gaeun/Desktop/lab2_04_shift_register/sim/tb_shift_register4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_shift_register4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/gaeun/Desktop/lab2_04_shift_register/vivado/lab2_shift_register.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
